@@ -27,7 +27,7 @@ import { useLang } from '../utils/i18n';
 
 const UI = {
   en: {
-    seoTitle: 'Writing & Insights — Rodrigo Arenas',
+    seoTitle: 'Writing & Insights — Kemeriya Abdulkerim',
     seoDesc: 'Notes, articles, and insights on data science, ML, and entrepreneurship.',
     overline: 'Blog',
     title: 'Writing & Insights',

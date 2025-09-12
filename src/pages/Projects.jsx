@@ -27,7 +27,7 @@ import { useLang } from '../utils/i18n';
 
 const UI = {
   en: {
-    seoTitle: 'Projects | Rodrigo Arenas',
+    seoTitle: 'Projects | Kemeriya Abdulkerim',
     seoDesc: 'Open-source libraries, systems, and real-world projects by Rodrigo Arenas.',
     overline: 'Selected Work',
     title: 'Projects',

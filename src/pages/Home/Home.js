@@ -25,7 +25,7 @@ export default function Home() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Rodrigo Arenas',
+    name: 'Kemeriya Abdulkerim',
     url: canonical,
     jobTitle: titles?.[0] || 'Data Scientist',
   };
@@ -37,7 +37,7 @@ export default function Home() {
   return (
     <section>
       <Seo
-        title={lang === 'es' ? 'Rodrigo Arenas — Científico de Datos & Consultor' : 'Rodrigo Arenas — Data Scientist & Consultant'}
+        title={lang === 'es' ? 'Kemeriya Abdulkerim — Científico de Datos & Consultor' : 'Kemeriya Abdulkerim — Data Scientist & Consultant'}
         description={
           lang === 'es'
             ? 'Consultoría en ML y datos: LLMs, RAG, AutoML, analítica en Azure. Proyectos, artículos y experiencia.'
