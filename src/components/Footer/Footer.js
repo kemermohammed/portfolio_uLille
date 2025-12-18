@@ -59,6 +59,16 @@ export default function Footer() {
           >
             {t.projects}
           </Button>
+          <Button
+  href="https://github.com/kemermohammed/my-business-card_uLille/releases/latest/download/card.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  variant="outlined"
+  sx={{ color: '#fff', borderColor: 'rgba(255,255,255,.4)' }}
+>
+  Download My Business Card
+</Button>
+
         </Stack>
         <FooterItems />
         <Typography variant="caption" sx={{ display: 'block', mt: 2, opacity: 0.75 }}>
